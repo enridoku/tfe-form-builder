@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tfe-form-builder/static/css/main.5356290b.css",
+    "main.js": "/tfe-form-builder/static/js/main.458044f9.js",
+    "static/js/453.66d8a145.chunk.js": "/tfe-form-builder/static/js/453.66d8a145.chunk.js",
+    "index.html": "/tfe-form-builder/index.html",
+    "main.5356290b.css.map": "/tfe-form-builder/static/css/main.5356290b.css.map",
+    "main.458044f9.js.map": "/tfe-form-builder/static/js/main.458044f9.js.map",
+    "453.66d8a145.chunk.js.map": "/tfe-form-builder/static/js/453.66d8a145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5356290b.css",
+    "static/js/main.458044f9.js"
+  ]
+}
