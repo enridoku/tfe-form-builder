@@ -72,7 +72,7 @@ setJsonData(parsed);
             ))}
           </ul>
         ) : (
-          <p className="text-gray-500">Upload a JSON file to see the tree.</p>
+          <p className="text-gray-500">Upload a JSON file to see the content tree.</p>
         )}
       </div>
 
