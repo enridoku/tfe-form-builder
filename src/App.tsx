@@ -83,7 +83,7 @@ setJsonData(parsed);
 
       {/* Right Panel */}
       <div className="w-1/4 bg-gray-50 p-2 overflow-auto">
-        <p className="font-bold">JSON preview</p>
+        <p className="font-bold">JSON file preview</p>
         <pre className="text-xs whitespace-pre-wrap">
           {jsonData ? JSON.stringify(jsonData, null, 2) : 'No data'}
         </pre>
