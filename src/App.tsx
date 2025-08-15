@@ -350,7 +350,7 @@ const deleteElement = (stepIdx: number, groupIdx: number, elIdx: number) => {
       ))}
     </ul>
   ) : (
-    <p className="text-gray-500">Upload a JSON file to see the tree.</p>
+    <p className="text-gray-500">Upload a JSON file to see the trees here new.</p>
   )}
 </div>
 
