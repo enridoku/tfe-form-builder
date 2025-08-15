@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tfe-form-builder/static/css/main.d7813bd5.css",
-    "main.js": "/tfe-form-builder/static/js/main.5d31fbc9.js",
+    "main.css": "/tfe-form-builder/static/css/main.883f8992.css",
+    "main.js": "/tfe-form-builder/static/js/main.99ba6a0d.js",
     "static/js/453.66d8a145.chunk.js": "/tfe-form-builder/static/js/453.66d8a145.chunk.js",
     "index.html": "/tfe-form-builder/index.html",
-    "main.d7813bd5.css.map": "/tfe-form-builder/static/css/main.d7813bd5.css.map",
-    "main.5d31fbc9.js.map": "/tfe-form-builder/static/js/main.5d31fbc9.js.map",
+    "main.883f8992.css.map": "/tfe-form-builder/static/css/main.883f8992.css.map",
+    "main.99ba6a0d.js.map": "/tfe-form-builder/static/js/main.99ba6a0d.js.map",
     "453.66d8a145.chunk.js.map": "/tfe-form-builder/static/js/453.66d8a145.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7813bd5.css",
-    "static/js/main.5d31fbc9.js"
+    "static/css/main.883f8992.css",
+    "static/js/main.99ba6a0d.js"
   ]
 }
